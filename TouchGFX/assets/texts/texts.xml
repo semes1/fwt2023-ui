@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="LUNSHU" Alignment="Left" TypographyId="tp_tyoe">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_9LCQ" Alignment="Center" TypographyId="tp_tyoe">
+        <Translation Language="GB">&lt;value&gt;km/h</Translation>
+      </Text>
+      <Text Id="__SingleUse_IX9P" Alignment="Center" TypographyId="uint_type">
+        <Translation Language="GB">QR</Translation>
+      </Text>
+      <Text Id="__SingleUse_B1Y0" Alignment="Center" TypographyId="uint_type">
+        <Translation Language="GB">FR</Translation>
+      </Text>
+      <Text Id="__SingleUse_IYWN" Alignment="Center" TypographyId="uint_type">
+        <Translation Language="GB">QL</Translation>
+      </Text>
+      <Text Id="__SingleUse_14NU" Alignment="Center" TypographyId="uint_type">
+        <Translation Language="GB">FL</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q6O0" Alignment="Left" TypographyId="Time_type">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_K3RF" Alignment="Left" TypographyId="Time_type">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZXVN" Alignment="Left" TypographyId="Time_type">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_97G1" Alignment="Left" TypographyId="Time_type">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_7JG6" Alignment="Center" TypographyId="acc_type">
+        <Translation Language="GB">QL:&lt;value&gt; r/min  QR:&lt;value&gt; r/min</Translation>
+      </Text>
+      <Text Id="__SingleUse_P47S" Alignment="Center" TypographyId="acc_type">
+        <Translation Language="GB">FL:&lt;value&gt; r/min  FR:&lt;value&gt; r/min</Translation>
+      </Text>
+      <Text Id="WIT_AY" Alignment="Left" TypographyId="uint_type">
+        <Translation Language="GB">00.000</Translation>
+      </Text>
+      <Text Id="WIT_AZ" Alignment="Left" TypographyId="uint_type">
+        <Translation Language="GB">00.000</Translation>
+      </Text>
+      <Text Id="AY" Alignment="Left" TypographyId="uint_type">
+        <Translation Language="GB">00.000</Translation>
+      </Text>
+      <Text Id="Acc_z" Alignment="Center" TypographyId="acc_type">
+        <Translation Language="GB">Z:&lt;value&gt;g</Translation>
+      </Text>
+      <Text Id="WIT_AX" Alignment="Left" TypographyId="uint_type">
+        <Translation Language="GB">00.000</Translation>
+      </Text>
+      <Text Id="Acc_xy" Alignment="Center" TypographyId="acc_type">
+        <Translation Language="GB">X:&lt;value&gt;g&#10;Y:&lt;value&gt;g</Translation>
+      </Text>
+      <Text Id="calendar" Alignment="Left" TypographyId="Time_type">
+        <Translation Language="GB">2023.10.12</Translation>
+      </Text>
+      <Text Id="__SingleUse_1JEG" Alignment="Center" TypographyId="Time_type">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VP8P" Alignment="Left" TypographyId="uint_type">
+        <Translation Language="GB">Mpa</Translation>
+      </Text>
+      <Text Id="brake" Alignment="Left" TypographyId="Typography35">
+        <Translation Language="GB">00.000</Translation>
+      </Text>
+      <Text Id="__SingleUse_W5NF" Alignment="Right" TypographyId="Typography35">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_JT4I" Alignment="Left" TypographyId="tp_tyoe">
+        <Translation Language="GB">25</Translation>
+      </Text>
+      <Text Id="__SingleUse_E0Q1" Alignment="Right" TypographyId="tp_tyoe">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZL3L" Alignment="Left" TypographyId="iconfont60">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="timer" Alignment="Center" TypographyId="Time_type">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0OHJ" Alignment="Left" TypographyId="tp_tyoe">
+        <Translation Language="GB" Alignment="Center">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZKSF" Alignment="Center" TypographyId="tp_tyoe">
+        <Translation Language="GB">km\h</Translation>
+      </Text>
+      <Text Id="__SingleUse_FHRY" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LG40" Alignment="Center" TypographyId="screen1_u6">
+        <Translation Language="GB">U6</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Time_type" Font="verdana.ttf" Size="30" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="." WidgetWildcardCharacters="0123456789 :APM" />
+    <Typography Id="tp_tyoe" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="uint_type" Font="verdana.ttf" Size="25" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="iconfont60" Font="iconfont.ttf" Size="32" Bpp="4" Direction="LTR" FallbackCharacter="0xe65e" WildcardCharacterRanges="0xe61c,0xe65e" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="155" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Typography35" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="." WildcardCharacterRanges="0-9" />
+    <Typography Id="screen1_u6" Font="verdana.ttf" Size="80" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="acc_type" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters=".-" WildcardCharacterRanges="0-9" />
+    <Typography Id="grape_type" Font="verdana.ttf" Size="15" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+  </Typographies>
+</TextDatabase>

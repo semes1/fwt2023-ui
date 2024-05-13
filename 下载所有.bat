@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -c -P ".\u6_ui\u6_ui.hex" 0x08000000 -Rst -HardRst -EL ".\APOLLO_W25Q256.stldr"
